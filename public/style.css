@@ -504,7 +504,7 @@ figcaption {
 }
 
 .post-content blockquote.small {
-/ / display: flex;
+    display: flex;
     position: relative;
     flex-direction: column;
     border: 2px solid rgba(152, 152, 152, 0.15);
@@ -2546,3 +2546,4 @@ hr {
     background: #F5F8FE;
     min-height: 100vh;
 }
+
