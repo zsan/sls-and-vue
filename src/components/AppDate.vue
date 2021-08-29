@@ -1,6 +1,6 @@
 <template>
-  <span :title="humanFriendlyDate(timestamp)">
-    {{ diffForHumans(timestamp) }}
+  <span :title="humanFriendlyDate()">
+    {{ diffForHumans() }}
   </span>
 </template>
 
