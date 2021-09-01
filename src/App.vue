@@ -12,5 +12,4 @@ export default {
 
 <style>
 @import "assets/style.css";
-/*@import "~bootstrap/css/bootstrap.css";*/
 </style>
